@@ -1,0 +1,10 @@
+<resources>
+    <string name="titulo_app">Vamos rachar?</string>
+    <string name="r_text">R$</string>
+    <string name="label_value">Digite o valor           </string>
+    <string name="label_pessoas">Digite o número de pessoas</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="btn_reproduzir">Reproduzir</string>
+    <string name="pessoas">Pessoas</string>
+    <string name="valor_rachado">O valor a ser dividido entre cada pessoa é %s</string>
+</resources>
